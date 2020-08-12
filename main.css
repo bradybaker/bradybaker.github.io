@@ -2,12 +2,7 @@
 font-family: 'Helvetica'; 'Serif"
   
 }
-p {
-  font-family: 'Helvetica';
-  color: 'red'
-    font-size: 48px
-    margin: 8px
-}
+
 h2 {
-  display: inline
+  font-size: 24px
 }
