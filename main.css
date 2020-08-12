@@ -1,16 +1,18 @@
 #contact-content {
-font-family: 'Helvetica'; 'Serif"
-  
+  font-family: 'Helvetica'; 'Serif"
+  margin-top: 20px
+  margin-left: 20px
+  margin-right: 20px
 }
 h1 {
-  font-size: 48px
+  font-size: 36px
 }
 h2 {
   font-size: 24px
 }
 h3 {
-  font-size: 12px
+  font-size: 18px
 }
 li {
-  font-size: 6px
+  font-size: 12px
 }
