@@ -4,7 +4,7 @@ font-family: "Helvetica"; "Serif';
 
 #contact-content {
   font-family: 'Helvetica'; 'Serif";
-  color: red;
+  font-color: red;
 }
 
 #content-work{
@@ -13,7 +13,7 @@ font-family: "Helvetica"; "Serif';
 
 h1 {
   font-size: 32px
-  color: green;
+  font-color: green;
 }
 
 h2 {
