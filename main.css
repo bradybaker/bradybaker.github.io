@@ -14,23 +14,28 @@ html {
   font-family: 'Helvetica'; 'Serif";
 }
 
+#education{
+  font-size: 24px;
+  margin-bottom: 2px;
+}
+
 #content-work{
-  font-size: 32px
-  line-height: 2px;
+  font-size: 24px;
+  margin-bottom: 2px;
 }    
 
 h1 {
-  font-size: 32px
+  font-size: 32px;
 }
 
 h2 {
-  font-size: 20px
+  font-size: 20px;
 }
 
 h3 {
-  font-size: 18px
+  font-size: 18px;
 }
 
 li {
-  font-size: 16px
+  font-size: 16px;
 }
