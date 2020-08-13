@@ -1,6 +1,10 @@
 html {
-font-family: "Helvetica"; "Serif';
-  margin: 20px
+  font-family: "Helvetica"; "Serif';
+  margin-top: 20px
+  margin-bottom:20px
+  margin-right:20px
+  margin-left:20px
+  
 }
 
 #contact-content {
