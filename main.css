@@ -3,19 +3,24 @@
   margin-top: 20px
   margin-left: 20px
   margin-right: 20px
-    #content-work{
-  font-size: 32px
-  }    
 }
+
+#content-work{
+  font-size: 32px
+}    
+
 h1 {
   font-size: 32px
 }
+
 h2 {
   font-size: 20px
 }
+
 h3 {
   font-size: 18px
 }
+
 li {
   font-size: 16px
 }
