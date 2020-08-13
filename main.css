@@ -3,7 +3,7 @@ html {
   
 }
 
-#container{
+#container {
   margin-top: 60px;
   margin-bottom: 60px;
   margin-left: 300px;
@@ -14,17 +14,21 @@ html {
   font-family: 'Helvetica'; 'Serif";
 }
 
-#education{
+#education {
   font-size: 24px;
   margin-bottom: 0px;
   padding: 2px;
 }
 
-#content-work{
+#content-work {
   font-size: 24px;
   margin-bottom: 0px;
   padding: 2px;
 }    
+
+#md {
+  text-alight: right
+}
 
 h1 {
   font-size: 32px;
