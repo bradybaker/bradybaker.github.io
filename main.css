@@ -8,7 +8,6 @@ html {
   margin-bottom: 60px;
   margin-left: 300px;
   margin-right: 300px;
-  line-height: 14px;
 }
 
 #contact-content {
@@ -17,6 +16,7 @@ html {
 
 #content-work{
   font-size: 32px
+  line-height: 2px;
 }    
 
 h1 {
