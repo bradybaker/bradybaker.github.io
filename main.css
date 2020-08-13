@@ -1,15 +1,19 @@
 html {
   font-family: "Helvetica"; "Serif';
-  margin-top: 20px
-  margin-bottom:20px
-  margin-right:20px
-  margin-left:20px
   
+}
+
+#container{
+  margin-top: 20px
+  margin-bottom: 20px
+  margin-left: 20px
+  margin-right: 20px
 }
 
 #contact-content {
   font-family: 'Helvetica'; 'Serif";
   font-color: red;
+  
 }
 
 #content-work{
