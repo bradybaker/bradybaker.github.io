@@ -1,6 +1,6 @@
 #contact-content {
   font-family: 'Helvetica'; 'Serif;
-  color: red
+  color: red;
 }
 
 #content-work{
@@ -9,6 +9,7 @@
 
 h1 {
   font-size: 32px
+  color: green;
 }
 
 h2 {
