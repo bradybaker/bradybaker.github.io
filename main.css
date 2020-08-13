@@ -6,14 +6,12 @@ html {
 #container{
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 60px;
-  margin-right: 60px;
+  margin-left: 300px;
+  margin-right: 300px;
 }
 
 #contact-content {
   font-family: 'Helvetica'; 'Serif";
-  font-color: red;
-  
 }
 
 #content-work{
@@ -22,7 +20,6 @@ html {
 
 h1 {
   font-size: 32px
-  font-color: green;
 }
 
 h2 {
