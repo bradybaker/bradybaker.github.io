@@ -1,5 +1,9 @@
+html {
+font-family: "Helvetica"; "Serif';
+}
+
 #contact-content {
-  font-family: 'Helvetica'; 'Serif;
+  font-family: 'Helvetica'; 'Serif";
   color: red;
 }
 
