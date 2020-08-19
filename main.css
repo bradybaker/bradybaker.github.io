@@ -1,30 +1,69 @@
 html {
-  font-family: "Helvetica"; "Serif';
+  font-family: "Helvetica"
   
 }
 
 #container {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 300px;
-  margin-right: 300px;
+  margin-left: 50px;
+  margin-right: 50px;
 }
 
 #contact-content {
-  font-family: 'Helvetica'; 'Serif";
+  font-family: 'Helvetica';
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  border-bottom: 4px double black;
+  margin-bottom: 20px
 }
 
-#education {
-  font-size: 24px;
-  margin-bottom: 0px;
-  padding: 2px;
+.contact-info {
+
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
 }
 
-#content-work {
+.address{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 50px;
+  font-size: 19px;
+  
+}
+
+.section-header {
   font-size: 24px;
-  margin-bottom: 0px;
-  padding: 2px;
-}    
+  font-weight: bold;
+  border-bottom: 1px solid black;
+}
+
+.content-education{
+  margin: 0px 0px 20px 0px;
+}
+
+
+.college{
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 10px;
+
+}
+.college-name {
+  font-weight: bold;
+  font-style: italic;
+
+}
+
+.degree{
+  padding-left: 30px;
+}
 
 #md {
   text-align: right;
