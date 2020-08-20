@@ -8,8 +8,8 @@ html {
 #container {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 140px;
+  margin-right: 140px;
 }
 
 #contact-content {
@@ -17,8 +17,8 @@ html {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  align-items: center;
-  margin-left: 160px;
+  align-items: flex-start;
+  margin-right: 20px;
 }
 
 .contact-info {
@@ -30,11 +30,10 @@ html {
 }
 
 .address{
-
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: center;
+  align-items: flex-end;
   height: 50px;
   font-size: 19px;
   
