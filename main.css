@@ -1,13 +1,15 @@
 html {
-  font-family: "Helvetica"
+  font-family: "Helvetica";
+  background-image:  url('./noise.png');
+  background-repeat: repeat;
   
 }
 
 #container {
   margin-top: 60px;
   margin-bottom: 60px;
-  margin-left: 50px;
-  margin-right: 50px;
+  margin-left: 100px;
+  margin-right: 100px;
 }
 
 #contact-content {
@@ -16,13 +18,13 @@ html {
   justify-content: center;
   flex-direction: column;
   align-items: center;
-  border-bottom: 4px double black;
-  margin-bottom: 20px
+  margin-left: 160px;
 }
 
 .contact-info {
 
   display: flex;
+  flex-direction: column;
   width: 100%;
   justify-content: space-around;
 }
@@ -65,20 +67,28 @@ html {
   padding-left: 30px;
 }
 
-#md {
-  text-align: right;
+ul{
+  margin-top: 0px;
+  margin-bottom: 14px
 }
 
 h1 {
   font-size: 32px;
 }
 
-h2 {
-  font-size: 20px;
+.header{ 
+  display: flex;
+  justify-content: center;
+  
+  margin-bottom: 20px;
+  padding-bottom: 4px;
 }
 
-h3 {
-  font-size: 18px;
+.image{
+  width: 200px;
+  height: auto;
+  border-radius: 2px;
+  border: solid black
 }
 
 li {
